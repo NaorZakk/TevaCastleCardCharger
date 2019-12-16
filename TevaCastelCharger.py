@@ -28,8 +28,7 @@ class TevaCastleCharger:
             submit_button = driver.find_element_by_class_name("PageSubmitButton")
             submit_button.click()
         finally:
-            pass
-            # driver.close()
+            driver.close()
 
     def lala(self):
         for attr, value in self.__dict__.iteritems():
