@@ -125,5 +125,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-!/data.py
-!/geckodriver.log
+/data.py
+/geckodriver.log
+.idea
+.DS_Store
+idea/
+.idea/vcs.xml
