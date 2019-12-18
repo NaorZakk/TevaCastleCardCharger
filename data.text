@@ -1,0 +1,12 @@
+You should create a data.py file, that contains the accounts data in this list:
+
+persons = [
+    {
+        "name": "",
+        "ten_bis_token": "",
+        "teva_card_owner_name": "",
+        "ten_bis_card_num": "",
+        "teva_castle_card_num": "",
+        "phone_num": "",
+    }
+]
